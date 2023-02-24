@@ -9,7 +9,7 @@ function SiteNav(props) {
 			<div className="container">
 				<a className="navbar-brand" href="/">
 					<img
-						src="https://pw.sabio.la/images/Sabio.png"
+						src="image.com"
 						width="30"
 						height="30"
 						className="d-inline-block align-top"
